@@ -29,4 +29,4 @@ java -jar .target\UserOperations-0.0.1-SNAPSHOT.jar
 
 http://localhost:8080/swagger-ui.html
 
-<img src="https://github.com/ElifRana/UserOperations/blob/master/UserOperations.png" width="100%" height="100%"/> 
+<img src="https://github.com/ElifRana/AspectExample/blob/master/Swagger.png" width="100%" height="100%"/> 
