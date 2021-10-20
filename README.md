@@ -13,7 +13,7 @@
 ```sh
 mvn clean package
 
-java -jar .target\UserOperations-0.0.1-SNAPSHOT.jar
+java -jar .target\AspectExample-0.0.1-SNAPSHOT.jar
 ```
 
 ## Used Technologies
