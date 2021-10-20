@@ -1,6 +1,6 @@
 # AspectExample
 
-> This is AOP Example>
+> This is Aspect Oriented Programming Example>
 
 <img src="https://github.com/ElifRana/AspectExample/blob/master/aop.jpg" width="100%" height="100%"/>
      
@@ -25,7 +25,7 @@ java -jar .target\AspectExample-0.0.1-SNAPSHOT.jar
 * H2 Database
 * Lombok
 * Swagger
-* Aspect
+* Aspect Oriented Programming (AOP)
 
 http://localhost:8080/swagger-ui.html
 
